@@ -1,4 +1,15 @@
-# react-tagger
+<h1 align="center">
+  React-Tagger 
+</h1>
+
+<h4 align="center">
+  A Tagging component for react. ❤️
+</h4>
+
+
+<div align="center">
+    <img alt="Header" src="screenshot.png" width="88%">
+</div>
 
 > Taggin input component. Easy to use.
 
@@ -15,12 +26,12 @@ npm install --save react-tagger
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-tagger'
+import ReactTagger from 'react-tagger'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <ReactTagger />
     )
   }
 }
@@ -29,3 +40,6 @@ class Example extends Component {
 ## License
 
 MIT © [malithmcr](https://github.com/malithmcr)
+
+# work in progress
+  Feel free to create PR's or request features.

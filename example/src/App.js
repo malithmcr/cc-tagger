@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'react-tagger'
+import ReactTagger from 'react-tagger'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <ReactTagger text='Modern React component module' />
       </div>
     )
   }

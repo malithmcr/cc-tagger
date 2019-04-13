@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import ReactTagger from './'
 
-describe('ExampleComponent', () => {
+describe('ReactTagger', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ReactTagger).toBeTruthy()
   })
 })
