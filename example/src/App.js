@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-import ReactTagger from 'react-tagger'
+import ccTagger from 'react-cc-tagger'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ReactTagger text='Modern React component module' />
+        <ccTagger />
       </div>
     )
   }

@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/v/react-tagger.svg)](https://www.npmjs.com/package/react-tagger) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 <h1 align="center">
-  React-Tagger 
+  React-cc-Tagger 
 </h1>
 
 <h4 align="center">
@@ -19,7 +19,7 @@
 ## Install
 
 ```bash
-npm install --save react-tagger
+npm install --save react-cc-tagger
 ```
 
 ## Usage
@@ -27,12 +27,12 @@ npm install --save react-tagger
 ```jsx
 import React, { Component } from 'react'
 
-import ReactTagger from 'react-tagger'
+import ccTagger from 'react-cc-tagger'
 
 class Example extends Component {
   render () {
     return (
-      <ReactTagger />
+      <ccTagger />
     )
   }
 }

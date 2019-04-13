@@ -5,7 +5,7 @@ import styles from './styles.css'
  * @component ReactTagger
  * ReactTagger component Tag like a pro
  */
-class ReactTagger extends Component {
+class ccTagger extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -74,4 +74,4 @@ class ReactTagger extends Component {
   }
 }
 
-export default ReactTagger;
+export default ccTagger;
