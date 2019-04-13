@@ -1,3 +1,7 @@
+> Taggin input component. Easy to use.
+
+[![NPM](https://img.shields.io/npm/v/react-tagger.svg)](https://www.npmjs.com/package/react-tagger) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 <h1 align="center">
   React-Tagger 
 </h1>
@@ -11,9 +15,6 @@
     <img alt="Header" src="screenshot.png" width="88%">
 </div>
 
-> Taggin input component. Easy to use.
-
-[![NPM](https://img.shields.io/npm/v/react-tagger.svg)](https://www.npmjs.com/package/react-tagger) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
