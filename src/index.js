@@ -1,17 +1,21 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import styles from './styles.css'
 
 /**
  * @component ReactTagger
  * ReactTagger component Tag like a pro
  */
-class ccTagger extends Component {
+class CcTagger extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      tags: ['tag 1', 'tag 2'],
+      tags: [],
       currentValue: ''
     };
+  }
+  componentDidMount(){
+    this.setState({tags: this.props.tags});
   }
   /**
    * Handle Enterkeypress
@@ -74,4 +78,8 @@ class ccTagger extends Component {
   }
 }
 
-export default ccTagger;
+CcTagger.propTypes = {
+  tags: PropTypes.array
+};
+
+export default CcTagger;

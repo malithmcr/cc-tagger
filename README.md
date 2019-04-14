@@ -27,12 +27,12 @@ npm install --save react-cc-tagger
 ```jsx
 import React, { Component } from 'react'
 
-import ccTagger from 'react-cc-tagger'
+import CcTagger from 'react-cc-tagger'
 
 class Example extends Component {
   render () {
     return (
-      <ccTagger />
+      <CcTagger />
     )
   }
 }
