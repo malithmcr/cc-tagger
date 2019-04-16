@@ -42,5 +42,4 @@ class Example extends Component {
 
 MIT © [malithmcr](https://github.com/malithmcr)
 
-# work in progress
-  Feel free to create PR's or request features.
+Feel free to create PR's or request features.
