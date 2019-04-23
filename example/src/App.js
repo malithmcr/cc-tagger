@@ -6,7 +6,7 @@ export default class App extends Component {
   render () {
     return (
       <div>
-        <CcTagger tags={['tag1', 'tag2', 'tag3']} />
+        <CcTagger tags={['tag1', 'tag2', 'tag3']} placeholder="Start Typing"/>
       </div>
     )
   }

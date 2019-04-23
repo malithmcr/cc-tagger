@@ -32,7 +32,7 @@ import CcTagger from 'react-cc-tagger'
 class Example extends Component {
   render () {
     return (
-      <CcTagger tags={['tag1', 'tag2', 'tag3']} />
+      <CcTagger tags={['tag1', 'tag2', 'tag3']} placeholder="Start Typing"/>
     )
   }
 }
