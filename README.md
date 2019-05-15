@@ -1,6 +1,6 @@
 > Taggin input component. Easy to use.
 
-[![NPM](https://img.shields.io/npm/v/react-tagger.svg)](https://www.npmjs.com/package/react-tagger) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-tagger.svg)](https://www.npmjs.com/package/react-cc-tagger) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 <h1 align="center">
   React-cc-Tagger 
